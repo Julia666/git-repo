@@ -11,6 +11,7 @@ namespace git_hello
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
+            Console.WriteLine("Whats up?");
         }
     }
 }
